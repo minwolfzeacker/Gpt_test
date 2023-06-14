@@ -1,0 +1,105 @@
+ Primeiramente gostaria de agradecer a todos os envolvidos durante o processo de desenvolvimento desse método, em especial a minha querida e amada esposa por sempre me apoiar e continuar me dando forças, mesmo quando as coisas ficaram realmente difíceis. Ao meu amigo Max, que me ajudou a organizar os pensamentos e a dividir incontáveis canecas de café durante as madrugadas que passamos juntos na tela do computador.
+
+Eu odeio enrolação então todo o conteúdo aqui será prático e rápido, a ideia é passar o conceito base e ir desenvolvendo os detalhes dentro do fórum, dito isso, vamos lá.
+
+
+Inicio, setup.
+
+ Eu acredito que o único indicador técnico fundamental é o próprio gráfico de velas, por esse motivo eu não recomendo a utilização de nada além de uma discreta média móvel exponencial de 9 períodos baseada no preço médio, para começar é uma boa prática colocar duas médias móveis exponenciais de 9 períodos baseados na mínima e máxima do preço, respectivamente, assim a visão da área em volta da média móvel, fica fácil! Com o tempo eu recomendo que tirem as médias, já que você provavelmente já vai estar vendo essas áreas de qualquer forma.
+
+Além da média móvel, eu não recomendo usar nenhum outro indicador… já que vamos ler vela a vela e nenhuma informação vai ser mais importante que os detalhes deixados na própria vela.
+
+Extra: vamos utilizar a ferramenta da régua de fibonacci modificada utilizando 0, 0.25, 0.5, 0.75 e 1, vamos utilizar ela para medir movimento e projetar alguns padrões.
+
+
+Inicio, tempo gráfico.
+
+ Para praticar vamos iniciar em H1, isso por que cada vela vai nos trazer uma riqueza enorme de detalhes a respeito do movimento do preço e quais decisões devemos tomar, então precisamos ter tempo de observar, analisar, catalogar e decidir (esses processos serão importantes mais pra frente para estudar melhor o método), e nos timeframes menores essa rotina talvez seja difícil no começo.
+
+inicio, como funciona.
+
+ Basicamente, o objetivo central do método é buscar todas as oportunidades possíveis, desde o que é convencionalmente chamado de scalp, até operações as tradicionais, bem como os swings… com a diferença de poder buscar operações vela a vela de modo a poupar tempo e esforço.
+ Nesse método nós iremos seguir princípios básicos e regras claras para facilitar o processo operacional o máximo possível, buscando atender o ditado: fazer o máximo, usando o mínimo.
+
+ Um detalhe adicional são as siglas, nos iremos utilizar as siglas dos padrões para ajudar nos estudos, porém, mais pra frente eu irei disponibilizar um glossário com todas as siglas e seus respectivos significados.
+
+Operacional, Bases fundamentais.
+
+Eu observei padrões no mercado, estes padrões fornecem dicas a respeito da probabilidade do movimento futuro e é com base nesses padrões que nós iremos observar, analisar, catalogar e por final decidir como a operação deverá ser abordada. Algo que nós iremos utilizar com muita frequência são os padrões fractais.
+ 
+A base inteira do método vai se basear nos seguintes princípios inicial:
+
+corpo / rejeição
+
+o corpo é a ação dos mandantes naquele momento, a rejeição é a reação natural ao movimento dos mandantes, dessa forma um corpo pode ser, uma vela única ou um conjunto de velas, um detalhe crucial é que o corpo precisa de movimento de um dos lados, deste modo a maneira mais prática de definir um corpo é através do movimento vertical em relação a sua própria rejeição, o mercado é composto de corpo e rejeição durante todo o tempo.
+
+Aqui nós temos um corpo de baixa, identificar o primeiro corpo é o passo inicial para começarmos uma sessão operacional, logo em sequência precisamos identificar a rejeição daquele corpo, segue o exemplo.
+
+como podem ver a reação ao movimento vertical do preço veio logo em seguida, aqui essas reações sejam denominadas de rejeição, uma rejeição consiste em toda e qualquer reação a um movimento vertical anterior, elas vão ocorrer nos corpo, na média móvel, em suportes/resistências etc. sempre que houver uma reação vertical ao movimento anterior, essa reação será chamada de rejeição, segue alguns exemplos: 
+
+rejeições serão o contra peso do pêndulo dos preços.
+
+Rejeições terão múltiplas funções de informação e com o tempo vamos aprender todas elas. Por hora vamos focar nos padrões iniciais, algo possível de ser visto e estudado logo de cara, essas são as nossas padrões de movimento, um padrão de movimento precisa obrigatoriamente ser composto por um corpo e uma rejeição, por serem os padrões primordiais, eles serão os responsáveis por determinar a fase atual do mercado. De maneira simples e resumida teremos três padrões iniciais:
+
+
+As regras que vão definir um padrão de movimento inicial são bem definidas, práticas e extremamente simples, já que o foco é determinar um ponto de partida para o início das operações.
+
+ Para o padrão de mercado rápido(FMP) a regra é que a rejeição do corpo analisado não pode fechar abaixo ou acima do quarter level do tamanho vertical do corpo de referência.
+ Esse padrão indica que o mercado está em tendência e você deve buscar coisas como tipo de ordens específicas e assumir uma postura diferente em relação ao risco retorno, porém falaremos desses detalhes posteriormente.
+
+
+Já o padrão de mercado lateral, precisa a rejeição do corpo analisado fique entre os dois quarter levels, tendo 3 possíveis variações:
+Fraca: Quando fica entre o meio e o primeiro quarto;
+Forte: Quando fica entre o meio e o segundo quarto;
+Confirmada: Quando fica proximo ao próximo nível cheio;
+
+Um padrão de mercado lateral fraco, pode indicar que aquele movimento já está começando a perder a força; Um forte, indica que o mercado está realmente próximo a entrar em uma fase lateral; Já o confirmado indica que o mercado está em uma fase lateral ou muito provavelmente irá inverter a partir daquele ponto.
+
+
+Por último, temos um padrão que raramente acontece, mas indica além de uma alta volatilidade, uma mudança forte na tendência e na abordagem daquela sessão em específico.
+No modo quebra de mercado a rejeição supera o corpo analisado, fechando acima ou abaixo do próximo nível .
+
+O FMP, LMP e o BMP nos darão as bases iniciais para nos localizar no gráfico, nos dando o ponto de partida e os detalhes fundamentais, mas antes vamos a um detalhe importante 
+
+Esse detalhe está no ponto exato que um corpo passa para uma rejeição, como digo antes uma rejeição é uma resposta vertical para a ação do preço que é exercida no corpo, então sempre que uma vela contrária surgir, aquela é o início da rejeição, assim que a primeira vela contrária à direção da rejeição surgir, aquele é o fim da rejeição.
+
+BB = BULLISH BODY
+RT = REJECTION
+
+
+BFMP = BULLISH FAST MARKET PATTERN
+SLMP = STRONG LATERAL MARKET PATTERN
+WLMP = WEAK LATERAL MARKET PATTERN
+
+Seguindo adiante vamos ver quais informações podemos extrair desses padrões de movimento, a primeira dessas informações são os suportes e resistências, vamos dividi-los em  grupos:
+
+SR minoritários: formados a partir de uma rejeição qualquer, são curtos e normalmente podem ser utilizados pelo pessoal de opções binárias ou scalps. 
+
+BB-RT = BULLISH BODY REJECTION
+EMA-RT = EXPONENTIAL MOVING AVERAGE REJECTION
+MRES = MINOR RESISTANCE
+MSUP = MINOR SUPPORT
+
+SR confirmados: SR confirmados são SR minoritário que já foram utilizados como pontos de rejeição, nesses casos podemos utilizá-los de forma mais segura, servindo como base para coisas mais complexas como no auxílio em abertura de ordens e setups de entradas.
+
+2 RT = SECOND REJECTION
+CSUP = CONFIRMED SUPPORT
+
+SR nivelados: São suportes ajustados pelos níveis fechados de preço, quem conhece KeySR Level já vai entender melhor, porém utilizaremos a mesma lógica da modificação da fibonacci, digamos que o EUR/USD esteja cotado em 1.01000, este seria o level cheio, o próximo level seria 1.01250, esse seria um quarter level, o próximo seria 1.01500, esse seria o half level, o proximo apos esse seria 1.01750, teríamos aqui o segundo quarter level e por final, teríamos o 1.02000, o próximo level cheio. Esses níveis podem ser quebrados em partes menores, mas sempre obedecendo uma divisão em 5 partes, por exemplo: 1.0100, 1.0125, 1.0150, 1.0175, 1.020.
+
+Uma boa prática é utilizar um SR confirmado e ajustado pelo SR nivelado mais próximo.
+
+LSUP = LEVELED SUPPORT
+
+Nesse caso o SR nivelado já estava praticamente encaixado, porém vale lembrar que o SR nivelado originalmente deve ser utilizado nos preços mais completos, ajustar um suporte ou resistência é apenas uma boa prática.
+
+
+Nesses níveis mais complexos, quase sempre alguma atividade diferente acontece, iremos abordar eles de uma forma mais aprofundada posteriormente, porém, por agora basta saber que eles existem e serão utilizados.
+
+Visto as noções básicas de suporte e resistência, podemos ver agora a contagem de topos e fundos e suas interações.
+
+T = ‘TOPO’ (Termo em português para Higher High)
+F = ‘FUNDO’ (Termo em português para Lower Low)
+
+O início do primeiro corpo analisado sempre marcará o topo ou fundo zero, assim como o início de sua rejeição sempre irá marcar o topo ou fundo zero, isso nos dá a oportunidade de contar quantos padrões de movimentos aconteceram, assim como vai nos ajudar a montar alguns setups específicos mais pra frente. Vale lembrar que como nós definimos de modo pessoal o onde irá ficar o topo ou fundo zero, a lógica tradicional de ondas 123 ou ABC podem ser usadas aqui, mas tenha cuidado, já que no método nós não iremos utilizar esses conceitos de forma tão íntima assim.
+
